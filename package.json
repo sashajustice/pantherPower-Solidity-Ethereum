@@ -1,0 +1,19 @@
+{
+  "name": "pantherpower",
+  "version": "1.0.0",
+  "description": "Ethereum crypto currency I created ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashajustice/pantherPower.git"
+  },
+  "author": "Sabrin Nasreddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashajustice/pantherPower/issues"
+  },
+  "homepage": "https://github.com/sashajustice/pantherPower#readme"
+}
